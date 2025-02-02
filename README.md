@@ -73,6 +73,6 @@ This project is licensed under the MIT License.
 
 ## 🙋‍♂️ Author
 
-- **Kaushal Gujarathi**
+- **Swaraj Jagtap**
 
 Feel free to contribute, raise issues, or suggest improvements!
